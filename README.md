@@ -1,4 +1,4 @@
-#FREE-SC
+#FREE SC
 
 $ pkg update && pkg upgrade
 
