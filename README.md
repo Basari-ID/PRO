@@ -1,4 +1,4 @@
-#FREE SC
+FREE SC BRO
 
 $ pkg update && pkg upgrade
 
