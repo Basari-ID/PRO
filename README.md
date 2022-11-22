@@ -1,3 +1,5 @@
+#FREE-SC
+
 $ pkg update && pkg upgrade
 
 $ pkg install python
