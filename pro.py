@@ -618,12 +618,12 @@ def atur_atur():
 		for x in dump:
 			id.append(x)
 	print(f"{P} ─────────────────────────────")
-	cp = input(f' [{hh}!{P}] VIEW OPTION CHECKPOINT :  ')
+	cp = input(f' [{hh}!{P}] VIEW OPTION CHECKPOINT NO/YA : ')
 	if cp in ['y','Y','ya','Ya','1','01','yy','YA','yA']:
 		cepeh.append('ya')
 	print(f"{P} ─────────────────────────────")
-	apk = input(f' [{hh}!{P}] VIEW APPLICATION :  ')
-	if apk in ['y','Ya','ya','1']:akunok.append('apk')
+	apk = input(f' [{hh}!{P}] VIEW APPLICATION NO/YA : ')
+	if apk in ['y','YA','ya','1']:akunok.append('apk')
 	else:akunok.append('coki')
 	print(f"{P} ─────────────────────────────")
 	ch = input(f' [{hh}1{P}] MANUAL [{hh}2{P}] COMBINE [{hh}3{P}] DEFAULT : ')
